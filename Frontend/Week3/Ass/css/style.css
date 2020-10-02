@@ -1,0 +1,44 @@
+.change{
+    height:490px;
+    width: 100%;
+}
+.carousel-caption{
+    margin-top:-200px;
+}
+.fix{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.fac{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.background{
+    min-height: 480px;
+    max-width: 1400px;;
+}
+
+.space{
+    padding-top: 10%;
+}
+.tes{
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
+.testp{
+    padding-left:200px;
+}
+
+.footer{
+    padding: 2% 5%;
+}
+
+.ftrow{
+    padding-left: 20px;
+}
+/*.explore{
+    padding-bottom: 25%;
+}*/
